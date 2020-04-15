@@ -6,3 +6,7 @@
 //
 
 import SwiftUI
+
+@main
+struct CryptoApp: App {
+ 
