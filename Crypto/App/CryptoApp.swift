@@ -9,4 +9,5 @@ import SwiftUI
 
 @main
 struct CryptoApp: App {
-    var body: some
+    var body: some Scene {
+        Wi
