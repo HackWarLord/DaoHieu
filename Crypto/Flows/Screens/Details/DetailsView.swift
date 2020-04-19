@@ -1,2 +1,4 @@
 //
-//  
+//  DetailsView.swift
+//  Crypto
+//
