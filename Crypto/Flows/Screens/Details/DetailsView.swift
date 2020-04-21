@@ -7,4 +7,5 @@
 
 import SwiftUI
 
-struc
+struct DetailsView: View {
+  
