@@ -8,4 +8,5 @@
 import SwiftUI
 
 struct DetailsView: View {
-    var body: some 
+    var body: some View {
+       
