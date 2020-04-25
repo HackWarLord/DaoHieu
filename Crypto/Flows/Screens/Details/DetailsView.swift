@@ -14,4 +14,4 @@ struct DetailsView: View {
 }
 
 
-struct DetailsView_
+struct DetailsView_Previews: Preview
