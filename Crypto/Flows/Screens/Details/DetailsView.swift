@@ -14,4 +14,5 @@ struct DetailsView: View {
 }
 
 
-struct DetailsView_Previews: Preview
+struct DetailsView_Previews: PreviewProvider {
+   
