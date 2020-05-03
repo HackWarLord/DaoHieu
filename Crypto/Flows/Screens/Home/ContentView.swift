@@ -7,4 +7,6 @@
 
 import SwiftUI
 
-struct ContentView: View
+struct ContentView: View {
+    
+    @Stat
