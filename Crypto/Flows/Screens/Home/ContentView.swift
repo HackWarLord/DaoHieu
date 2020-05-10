@@ -12,4 +12,6 @@ struct ContentView: View {
     @State private var animate = false
     @State private var animation = false
     
-    var body: some 
+    var body: some View {
+        ZStack {
+          
