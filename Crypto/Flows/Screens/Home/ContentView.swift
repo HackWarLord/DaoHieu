@@ -18,4 +18,5 @@ struct ContentView: View {
                 .ignoresSafeArea()
             
             VStack(alignment: .center, spacing: 5) {
-                    Text("W
+                    Text("Welcome")
+           
