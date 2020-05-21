@@ -21,4 +21,6 @@ struct ContentView: View {
                     Text("Welcome")
                         .foregroundColor(.white)
                         .font(.system(size: 45))
-                        .fontWeig
+                        .fontWeight(.heavy)
+
+      
