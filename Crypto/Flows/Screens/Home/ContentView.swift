@@ -24,4 +24,5 @@ struct ContentView: View {
                         .fontWeight(.heavy)
 
                     Text("To the Crypto")
-                        .foregroundCo
+                        .foregroundColor(.white)
+    
