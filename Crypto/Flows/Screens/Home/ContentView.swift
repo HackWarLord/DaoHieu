@@ -30,4 +30,5 @@ struct ContentView: View {
                         
             }
             
-            .paddin
+            .padding(.bottom, 600)
+          
