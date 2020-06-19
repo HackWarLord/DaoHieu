@@ -33,4 +33,4 @@ struct ContentView: View {
             .padding(.bottom, 600)
             .opacity(animate ? 1.0 : 0.0)
             .onAppear() {
-                withAnimation(Animation.easeInOut(duration: 1
+                withAnimation(Animation.easeInOut(duration: 1.0)) {animate
