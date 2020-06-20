@@ -34,4 +34,5 @@ struct ContentView: View {
             .opacity(animate ? 1.0 : 0.0)
             .onAppear() {
                 withAnimation(Animation.easeInOut(duration: 1.0)) {animate.toggle()}
-          
+            }
+            
