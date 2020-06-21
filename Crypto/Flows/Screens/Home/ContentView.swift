@@ -36,3 +36,5 @@ struct ContentView: View {
                 withAnimation(Animation.easeInOut(duration: 1.0)) {animate.toggle()}
             }
             
+            
+    
