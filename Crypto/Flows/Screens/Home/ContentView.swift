@@ -39,4 +39,5 @@ struct ContentView: View {
             
             HStack{
                 Button(action: {}, label: {
-                    Tex
+                    Text("Let's start!")
+     
