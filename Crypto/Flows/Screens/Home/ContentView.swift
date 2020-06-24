@@ -40,4 +40,5 @@ struct ContentView: View {
             HStack{
                 Button(action: {}, label: {
                     Text("Let's start!")
-                        .fontW
+                        .fontWeight(.bold)
+               
