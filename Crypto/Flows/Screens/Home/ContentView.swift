@@ -41,4 +41,5 @@ struct ContentView: View {
                 Button(action: {}, label: {
                     Text("Let's start!")
                         .fontWeight(.bold)
-                        .foregroun
+                        .foregroundColor(.white)
+      
