@@ -42,4 +42,5 @@ struct ContentView: View {
                     Text("Let's start!")
                         .fontWeight(.bold)
                         .foregroundColor(.white)
-                        .frame(width: UIScreen.main.b
+                        .frame(width: UIScreen.main.bounds.width - 120)
+  
