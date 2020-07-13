@@ -43,4 +43,4 @@ struct ContentView: View {
                         .fontWeight(.bold)
                         .foregroundColor(.white)
                         .frame(width: UIScreen.main.bounds.width - 120)
-  
+                    
