@@ -44,4 +44,5 @@ struct ContentView: View {
                         .foregroundColor(.white)
                         .frame(width: UIScreen.main.bounds.width - 120)
                         .padding()
-                
+                })
+          
