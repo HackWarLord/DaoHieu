@@ -45,4 +45,4 @@ struct ContentView: View {
                         .frame(width: UIScreen.main.bounds.width - 120)
                         .padding()
                 })
-          
+                .background(Co
