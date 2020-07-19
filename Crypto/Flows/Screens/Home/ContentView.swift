@@ -45,4 +45,5 @@ struct ContentView: View {
                         .frame(width: UIScreen.main.bounds.width - 120)
                         .padding()
                 })
-                .background(Color("MainTool
+                .background(Color("MainToolBarColor"))
+          
