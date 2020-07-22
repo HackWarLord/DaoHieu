@@ -48,3 +48,5 @@ struct ContentView: View {
                 .background(Color("MainToolBarColor"))
                 .cornerRadius(10)
                 .padding(.top, 680)
+            }
+        
