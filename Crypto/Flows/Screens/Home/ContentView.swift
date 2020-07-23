@@ -49,4 +49,5 @@ struct ContentView: View {
                 .cornerRadius(10)
                 .padding(.top, 680)
             }
-            .opacity(an
+            .opacity(animation ? 1.0 : 0.0)
+ 
