@@ -50,4 +50,4 @@ struct ContentView: View {
                 .padding(.top, 680)
             }
             .opacity(animation ? 1.0 : 0.0)
- 
+            .onAppear() {
