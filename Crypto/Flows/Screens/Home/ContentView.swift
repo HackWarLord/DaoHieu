@@ -51,4 +51,4 @@ struct ContentView: View {
             }
             .opacity(animation ? 1.0 : 0.0)
             .onAppear() {
-                withAnimation(Animation.eas
+                withAnimation(Animation.easeInOut(duration: 2
