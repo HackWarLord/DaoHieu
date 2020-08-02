@@ -58,4 +58,5 @@ struct ContentView: View {
     }
 }
 
-struct ContentView_Previews: PreviewProv
+struct ContentView_Previews: PreviewProvider {
+    static var previe
