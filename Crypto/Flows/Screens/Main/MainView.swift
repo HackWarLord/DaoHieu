@@ -2,4 +2,5 @@
 //  MainView.swift
 //  Crypto
 //
-//  Created by Zhenya Pavlov
+//  Created by Zhenya Pavlovskyi on 09.11.2022.
+//
