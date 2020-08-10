@@ -7,4 +7,4 @@
 
 import SwiftUI
 
-st
+struct MainView: View 
