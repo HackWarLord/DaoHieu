@@ -11,4 +11,5 @@ struct MainView: View {
     var body: some View {
         ZStack {
             Color("MainListColor")
-            
+            .ignoresSafeArea()
+ 
