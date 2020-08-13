@@ -12,4 +12,5 @@ struct MainView: View {
         ZStack {
             Color("MainListColor")
             .ignoresSafeArea()
- 
+            
+     
