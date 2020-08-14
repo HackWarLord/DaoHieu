@@ -14,3 +14,4 @@ struct MainView: View {
             .ignoresSafeArea()
             
             VStack {
+                HStack 
