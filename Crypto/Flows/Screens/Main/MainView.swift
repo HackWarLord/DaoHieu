@@ -15,4 +15,5 @@ struct MainView: View {
             
             VStack {
                 HStack {
-                Te
+                Text("Crypto")
+       
