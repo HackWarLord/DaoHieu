@@ -16,4 +16,4 @@ struct MainView: View {
             VStack {
                 HStack {
                 Text("Crypto")
-       
+                    .fontWeight(
