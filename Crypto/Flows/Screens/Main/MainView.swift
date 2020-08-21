@@ -17,4 +17,5 @@ struct MainView: View {
                 HStack {
                 Text("Crypto")
                     .fontWeight(.heavy)
-                    .font(.sys
+                    .font(.system(size: 25))
+   
