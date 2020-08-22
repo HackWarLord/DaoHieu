@@ -18,4 +18,5 @@ struct MainView: View {
                 Text("Crypto")
                     .fontWeight(.heavy)
                     .font(.system(size: 25))
-   
+            }
+      
