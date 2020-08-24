@@ -19,4 +19,5 @@ struct MainView: View {
                     .fontWeight(.heavy)
                     .font(.system(size: 25))
             }
-                .foregroundColor(
+                .foregroundColor(.white)
+                
