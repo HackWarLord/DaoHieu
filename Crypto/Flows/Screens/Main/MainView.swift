@@ -23,4 +23,5 @@ struct MainView: View {
                 
                 NavigationView {
                     Form {
-                        
+                        Section {
+                  
