@@ -27,4 +27,4 @@ struct MainView: View {
                             HStack {
                                 Image("Bitcoin")
                                     .frame(width: 25)
-                      
+                                    .padding
