@@ -29,4 +29,4 @@ struct MainView: View {
                                     .frame(width: 25)
                                     .padding(.trailing)
                                 Text("Bitcoin")
-                 
+                             
