@@ -31,4 +31,4 @@ struct MainView: View {
                                 Text("Bitcoin")
                                 Spacer()
     
-      
+                    
