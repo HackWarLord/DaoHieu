@@ -31,4 +31,5 @@ struct MainView: View {
                                 Text("Bitcoin")
                                 Spacer()
     
-                                Text("$21,18
+                                Text("$21,188.12")
+              
