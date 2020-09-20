@@ -34,4 +34,5 @@ struct MainView: View {
                                 Text("$21,188.12")
                                     .frame(width: 110, height: 35)
                                     .clipped()
-                                    .background(Color("SettingsColorForm
+                                    .background(Color("SettingsColorForm"))
+                
