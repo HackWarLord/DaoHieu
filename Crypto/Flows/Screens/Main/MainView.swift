@@ -45,4 +45,4 @@ struct MainView: View {
                         
                         Section {
                             HStack {
-                     
+                                Image("Li
