@@ -66,4 +66,5 @@ struct MainView: View {
                         Section {
                             HStack {
                                 Image("Ether")
-                                    .fram
+                                    .frame(width: 25)
+        
