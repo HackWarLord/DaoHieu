@@ -68,4 +68,4 @@ struct MainView: View {
                                 Image("Ether")
                                     .frame(width: 25)
                                     .padding(.trailing)
-           
+                                
