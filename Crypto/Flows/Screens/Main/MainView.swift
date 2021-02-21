@@ -75,4 +75,4 @@ struct MainView: View {
                                     .frame(width: 100, height: 35)
                                     .clipped()
                                     .background(Color("SettingsColorForm"))
-                                
+                                    .cornerRad
