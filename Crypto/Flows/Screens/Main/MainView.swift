@@ -78,4 +78,5 @@ struct MainView: View {
                                     .cornerRadius(10)
                                     .foregroundColor(.white)
                             }
-                                
+                                .fontWeight(.bold)
+       
