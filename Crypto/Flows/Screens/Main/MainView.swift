@@ -85,4 +85,5 @@ struct MainView: View {
                         
                         Section {
                             HStack {
-                                Image("Bitc
+                                Image("Bitcoin")
+           
