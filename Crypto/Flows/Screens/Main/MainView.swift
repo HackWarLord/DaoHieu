@@ -95,4 +95,4 @@ struct MainView: View {
                                     .frame(width: 110, height: 35)
                                     .clipped()
                                     .background(Color("SettingsColorForm"))
-                       
+                                    .c
