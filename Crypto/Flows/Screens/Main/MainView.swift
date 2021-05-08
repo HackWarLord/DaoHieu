@@ -96,4 +96,4 @@ struct MainView: View {
                                     .clipped()
                                     .background(Color("SettingsColorForm"))
                                     .cornerRadius(10)
-               
+                                 
