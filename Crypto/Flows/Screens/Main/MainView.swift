@@ -100,4 +100,4 @@ struct MainView: View {
                             }
                                 .fontWeight(.bold)
                         }
-             
+                        .listRowBackgro
