@@ -107,4 +107,4 @@ struct MainView: View {
                             HStack {
                                 Image("Litecoin")
                                     .frame(width: 25)
-                       
+                                    .pad
