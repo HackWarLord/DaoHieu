@@ -108,4 +108,5 @@ struct MainView: View {
                                 Image("Litecoin")
                                     .frame(width: 25)
                                     .padding(.trailing)
-                                Text("
+                                Text("Litecoin")
+          
