@@ -111,4 +111,4 @@ struct MainView: View {
                                 Text("Litecoin")
                                 Spacer()
     
-  
+                              
