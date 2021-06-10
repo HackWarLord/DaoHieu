@@ -112,3 +112,4 @@ struct MainView: View {
                                 Spacer()
     
                                 Text("$68.06")
+                     
