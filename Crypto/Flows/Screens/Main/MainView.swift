@@ -114,4 +114,4 @@ struct MainView: View {
                                 Text("$68.06")
                                     .frame(width: 80, height: 35)
                                     .clipped()
-                                
+                                    .background(Colo
