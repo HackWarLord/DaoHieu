@@ -119,4 +119,5 @@ struct MainView: View {
                                     .foregroundColor(.white)
                             }
                                 .fontWeight(.bold)
-               
+                        }
+       
