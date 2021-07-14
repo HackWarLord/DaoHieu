@@ -124,4 +124,5 @@ struct MainView: View {
                         .frame(height: 40)
                         
                         Section {
-                            HStack 
+                            HStack {
+               
