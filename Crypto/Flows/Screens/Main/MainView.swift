@@ -132,4 +132,4 @@ struct MainView: View {
                                 Spacer()
     
                                 Text("$1,651.64")
-            
+                                    .fr
