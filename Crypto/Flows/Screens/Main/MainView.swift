@@ -137,4 +137,4 @@ struct MainView: View {
                                     .background(Color("SettingsColorForm"))
                                     .cornerRadius(10)
                                     .foregroundColor(.white)
-   
+                  
