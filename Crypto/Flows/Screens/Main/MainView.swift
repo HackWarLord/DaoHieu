@@ -143,4 +143,5 @@ struct MainView: View {
                         .listRowBackground(Color("MainListColor"))
                         .frame(height: 40)
 
-   
+                    }
+      
