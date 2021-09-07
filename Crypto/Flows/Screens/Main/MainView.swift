@@ -144,4 +144,4 @@ struct MainView: View {
                         .frame(height: 40)
 
                     }
-                    .scrollConten
+                    .scrollContentBackground(.hidd
