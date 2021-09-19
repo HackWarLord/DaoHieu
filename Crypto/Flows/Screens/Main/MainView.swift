@@ -147,4 +147,5 @@ struct MainView: View {
                     .scrollContentBackground(.hidden)
                     .foregroundColor(Color.white)
                     .background(Color("SettingsColorForm"))
-              
+                    
+               
