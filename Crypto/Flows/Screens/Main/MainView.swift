@@ -155,4 +155,4 @@ struct MainView: View {
                 Image("SettingsButton")
                     
             })
-                
+                .frame(width: 75, heigh
