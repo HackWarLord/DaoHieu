@@ -157,3 +157,4 @@ struct MainView: View {
             })
                 .frame(width: 75, height: 75)
                 .background(Color("MainToolBarColor"))
+                .cornerRad
