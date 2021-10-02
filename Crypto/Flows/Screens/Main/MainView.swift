@@ -160,4 +160,7 @@ struct MainView: View {
                 .cornerRadius(15)
                 .offset(x: 140, y: +350)
         }
- 
+    }
+}
+
+struct Main
