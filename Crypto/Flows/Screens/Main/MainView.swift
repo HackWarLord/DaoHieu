@@ -163,4 +163,5 @@ struct MainView: View {
     }
 }
 
-struct MainView_Previews: Preview
+struct MainView_Previews: PreviewProvider {
+    stati
