@@ -1,3 +1,5 @@
 //
 //  SettingView.swift
-//  C
+//  Crypto
+//
+//  Created by 
