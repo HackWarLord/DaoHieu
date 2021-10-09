@@ -1,2 +1,3 @@
 //
-//  Set
+//  SettingView.swift
+//  C
