@@ -2,4 +2,4 @@
 //  SettingView.swift
 //  Crypto
 //
-//  Created by 
+//  Created by Zhenya Pavlovskyi on
