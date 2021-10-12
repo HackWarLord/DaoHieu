@@ -7,4 +7,6 @@
 
 import SwiftUI
 
-stru
+struct SettingView: View {
+    
+ 
