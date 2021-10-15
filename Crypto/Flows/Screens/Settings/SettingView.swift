@@ -9,4 +9,5 @@ import SwiftUI
 
 struct SettingView: View {
     
- 
+    
+    @State private va
