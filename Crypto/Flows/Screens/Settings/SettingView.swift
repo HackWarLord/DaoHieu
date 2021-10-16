@@ -10,4 +10,5 @@ import SwiftUI
 struct SettingView: View {
     
     
-    @State private va
+    @State private var showGreeting = true
+   
