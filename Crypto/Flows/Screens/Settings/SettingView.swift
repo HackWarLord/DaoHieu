@@ -16,4 +16,5 @@ struct SettingView: View {
         ZStack {
             Color("MainListColor")
             .ignoresSafeArea()
-     
+            
+            VSta
