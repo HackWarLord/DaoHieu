@@ -18,4 +18,5 @@ struct SettingView: View {
             .ignoresSafeArea()
             
             VStack {
-               
+                HStack {
+                Te
