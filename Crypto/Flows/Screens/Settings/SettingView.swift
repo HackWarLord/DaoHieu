@@ -17,4 +17,5 @@ struct SettingView: View {
             Color("MainListColor")
             .ignoresSafeArea()
             
-            VSta
+            VStack {
+               
