@@ -20,4 +20,4 @@ struct SettingView: View {
             VStack {
                 HStack {
                 Text("Settings")
-                    
+                    .fontWeight(.hea
