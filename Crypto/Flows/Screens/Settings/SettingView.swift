@@ -21,4 +21,4 @@ struct SettingView: View {
                 HStack {
                 Text("Settings")
                     .fontWeight(.heavy)
-            
+                    .font(.system(s
