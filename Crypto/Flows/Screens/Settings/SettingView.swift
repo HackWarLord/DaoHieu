@@ -23,4 +23,4 @@ struct SettingView: View {
                     .fontWeight(.heavy)
                     .font(.system(size: 25))
                     .offset(x:145, y: 0)
-        
+                    Spa
