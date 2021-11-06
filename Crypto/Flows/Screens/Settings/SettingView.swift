@@ -22,4 +22,5 @@ struct SettingView: View {
                 Text("Settings")
                     .fontWeight(.heavy)
                     .font(.system(size: 25))
-                    .o
+                    .offset(x:145, y: 0)
+        
