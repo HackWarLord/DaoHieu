@@ -24,4 +24,5 @@ struct SettingView: View {
                     .font(.system(size: 25))
                     .offset(x:145, y: 0)
                     Spacer()
-               
+                    
+                
