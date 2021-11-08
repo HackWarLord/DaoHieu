@@ -25,4 +25,4 @@ struct SettingView: View {
                     .offset(x:145, y: 0)
                     Spacer()
                     
-                
+                    Button(action: {}, la
