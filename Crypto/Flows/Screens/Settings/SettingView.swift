@@ -27,4 +27,4 @@ struct SettingView: View {
                     
                     Button(action: {}, label: {
                         Image(systemName: "multiply")
-   
+                  
