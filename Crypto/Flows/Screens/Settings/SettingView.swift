@@ -29,4 +29,5 @@ struct SettingView: View {
                         Image(systemName: "multiply")
                     })
                     .offset(x: -20, y: 0)
-                    .fontWeight
+                    .fontWeight(.regular)
+   
