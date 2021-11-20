@@ -32,4 +32,4 @@ struct SettingView: View {
                     .fontWeight(.regular)
                     .font(.system(size: 25))
             }
-     
+                .foregr
