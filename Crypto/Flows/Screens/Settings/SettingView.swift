@@ -33,4 +33,5 @@ struct SettingView: View {
                     .font(.system(size: 25))
             }
                 .foregroundColor(.white)
+                
       
