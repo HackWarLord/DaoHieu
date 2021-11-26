@@ -35,4 +35,5 @@ struct SettingView: View {
                 .foregroundColor(.white)
                 
                 NavigationView {
-               
+                    Form {
+       
