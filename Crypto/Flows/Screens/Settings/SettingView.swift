@@ -37,4 +37,5 @@ struct SettingView: View {
                 NavigationView {
                     Form {
                         Section {
-                  
+                            HStack {
+       
