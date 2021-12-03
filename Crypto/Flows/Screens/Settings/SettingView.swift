@@ -41,4 +41,4 @@ struct SettingView: View {
                                 Text("Notifications")
                                     .fontWeight(.heavy)
                                 Spacer()
-         
+                         
