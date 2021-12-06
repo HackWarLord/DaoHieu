@@ -42,4 +42,4 @@ struct SettingView: View {
                                     .fontWeight(.heavy)
                                 Spacer()
                                 
-                                Toggle( 
+                                Toggle( isOn: $showGreeting) {}
