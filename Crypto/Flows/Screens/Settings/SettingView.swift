@@ -43,3 +43,4 @@ struct SettingView: View {
                                 Spacer()
                                 
                                 Toggle( isOn: $showGreeting) {}
+             
