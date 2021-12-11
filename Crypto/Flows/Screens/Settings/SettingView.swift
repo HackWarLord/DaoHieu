@@ -43,4 +43,5 @@ struct SettingView: View {
                                 Spacer()
                                 
                                 Toggle( isOn: $showGreeting) {}
-                                    .toggleStyle(SwitchToggleSt
+                                    .toggleStyle(SwitchToggleStyle(tint: .white))
+         
