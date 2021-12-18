@@ -47,4 +47,4 @@ struct SettingView: View {
                             }
                         }
                         .listRowBackground(Color("MainListColor"))
-                   
+                        .frame(he
