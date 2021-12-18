@@ -46,4 +46,5 @@ struct SettingView: View {
                                     .toggleStyle(SwitchToggleStyle(tint: .white))
                             }
                         }
-                        .listRowBackground(Color("MainListColor")
+                        .listRowBackground(Color("MainListColor"))
+                   
