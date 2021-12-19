@@ -47,4 +47,5 @@ struct SettingView: View {
                             }
                         }
                         .listRowBackground(Color("MainListColor"))
-                        .frame(he
+                        .frame(height: 45)
+       
