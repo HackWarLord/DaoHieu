@@ -53,4 +53,4 @@ struct SettingView: View {
                             Text("Our website")
                                 .fontWeight(.heavy)
                         }
-       
+                        .list
