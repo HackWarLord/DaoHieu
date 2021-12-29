@@ -53,4 +53,5 @@ struct SettingView: View {
                             Text("Our website")
                                 .fontWeight(.heavy)
                         }
-                        .listRowBackground(Color("Main
+                        .listRowBackground(Color("MainListColor"))
+ 
