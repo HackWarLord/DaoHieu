@@ -54,4 +54,4 @@ struct SettingView: View {
                                 .fontWeight(.heavy)
                         }
                         .listRowBackground(Color("MainListColor"))
- 
+                        .frame(
