@@ -57,4 +57,5 @@ struct SettingView: View {
                         .frame(height: 45)
                         
                         Section {
-                            
+                            HStack{
+           
