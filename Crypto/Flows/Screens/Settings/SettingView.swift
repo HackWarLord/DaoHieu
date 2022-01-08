@@ -58,4 +58,5 @@ struct SettingView: View {
                         
                         Section {
                             HStack{
-                                Te
+                                Text("Version")
+        
