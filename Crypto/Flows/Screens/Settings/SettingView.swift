@@ -59,4 +59,4 @@ struct SettingView: View {
                         Section {
                             HStack{
                                 Text("Version")
-                        
+                                    .fontWeight(
