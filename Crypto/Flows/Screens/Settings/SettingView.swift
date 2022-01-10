@@ -60,4 +60,5 @@ struct SettingView: View {
                             HStack{
                                 Text("Version")
                                     .fontWeight(.heavy)
-                           
+                                Spacer()
+     
