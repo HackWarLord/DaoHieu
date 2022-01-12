@@ -62,4 +62,4 @@ struct SettingView: View {
                                     .fontWeight(.heavy)
                                 Spacer()
                                 
-               
+                                Text(
