@@ -63,4 +63,4 @@ struct SettingView: View {
                                 Spacer()
                                 
                                 Text("1.0")
-       
+                    
