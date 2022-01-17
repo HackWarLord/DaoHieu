@@ -64,4 +64,4 @@ struct SettingView: View {
                                 
                                 Text("1.0")
                                     .frame(width: 35, height: 35)
-                
+                                    .clipped(
