@@ -67,4 +67,4 @@ struct SettingView: View {
                                     .clipped()
                                     .background(Color("SettingsColorForm"))
                                     .cornerRadius(10)
-                                    .foregroun
+                                    .foregroundColor(.whi
