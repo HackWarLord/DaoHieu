@@ -69,4 +69,5 @@ struct SettingView: View {
                                     .cornerRadius(10)
                                     .foregroundColor(.white)
                             }
-         
+                        }
+ 
