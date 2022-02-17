@@ -70,4 +70,5 @@ struct SettingView: View {
                                     .foregroundColor(.white)
                             }
                         }
-                        .frame(height:
+                        .frame(height: 45)
+           
