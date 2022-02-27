@@ -74,4 +74,4 @@ struct SettingView: View {
                         .listRowBackground(Color("MainListColor"))
                     }
                     .scrollContentBackground(.hidden)
-          
+                    .foregrou
