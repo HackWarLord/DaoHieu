@@ -75,4 +75,4 @@ struct SettingView: View {
                     }
                     .scrollContentBackground(.hidden)
                     .foregroundColor(Color.white)
- 
+               
