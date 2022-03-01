@@ -77,4 +77,6 @@ struct SettingView: View {
                     .foregroundColor(Color.white)
                     .background(Color("SettingsColorForm"))
                     
-             
+                }
+            }
+ 
