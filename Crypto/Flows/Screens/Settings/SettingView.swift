@@ -79,4 +79,7 @@ struct SettingView: View {
                     
                 }
             }
- 
+        }
+    }
+}
+stru
