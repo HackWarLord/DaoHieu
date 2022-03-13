@@ -82,4 +82,4 @@ struct SettingView: View {
         }
     }
 }
-struct SettingView_Pr
+struct SettingView_Previews: PreviewProvide
