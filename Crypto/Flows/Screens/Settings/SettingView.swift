@@ -82,4 +82,5 @@ struct SettingView: View {
         }
     }
 }
-struct SettingView_Previews: PreviewProvide
+struct SettingView_Previews: PreviewProvider {
+    static var previe
