@@ -2,4 +2,5 @@
   "images" : [
     {
       "idiom" : "universal",
-      "platform" : "ios"
+      "platform" : "ios",
+      "size" : "1024x1
