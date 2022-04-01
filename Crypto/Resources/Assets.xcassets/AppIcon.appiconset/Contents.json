@@ -2,4 +2,4 @@
   "images" : [
     {
       "idiom" : "universal",
-     
+      "platform" : "ios"
