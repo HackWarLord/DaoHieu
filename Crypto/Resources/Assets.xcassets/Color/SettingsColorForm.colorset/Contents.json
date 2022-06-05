@@ -2,4 +2,5 @@
   "colors" : [
     {
       "color" : {
-        "color
+        "color-space" : "srgb",
+       
