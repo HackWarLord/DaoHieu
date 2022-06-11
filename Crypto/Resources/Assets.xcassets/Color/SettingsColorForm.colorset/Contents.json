@@ -4,4 +4,5 @@
       "color" : {
         "color-space" : "srgb",
         "components" : {
-          "alpha"
+          "alpha" : "1.000",
+        
