@@ -1,2 +1,5 @@
 //
-//  Coins.
+//  Coins.swift
+//  Crypto
+//
+//
