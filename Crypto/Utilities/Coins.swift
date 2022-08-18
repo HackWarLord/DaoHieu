@@ -5,4 +5,6 @@
 //  Created by Zhenya Pavlovskyi on 08.11.2022.
 //
 
-imp
+import Foundation
+
+struct C
