@@ -7,4 +7,6 @@
 
 import Foundation
 
-struct Coin: Identifiabl
+struct Coin: Identifiable {
+    
+    let
