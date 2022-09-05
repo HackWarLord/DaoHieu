@@ -16,4 +16,5 @@ struct Coin: Identifiable {
     
 }
 
-let coi
+let coinsList = [
+    Coin(imageName: "
