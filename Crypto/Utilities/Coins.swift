@@ -18,4 +18,5 @@ struct Coin: Identifiable {
 
 let coinsList = [
     Coin(imageName: "Bitcoin", name: "Bitcoin", cost: "100$"),
-    Coin(imageName: "AltCoin", name: "L
+    Coin(imageName: "AltCoin", name: "Litecoin", cost: "100$"),
+    Coi
