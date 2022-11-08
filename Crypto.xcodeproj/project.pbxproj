@@ -1,0 +1,27 @@
+
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9891F1B9291C562100443CE5 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9891F1B8291C562100443CE5 /* MainView.swift */; };
+		98F63B922919732D00DFCBB8 /* CryptoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98F63B912919732D00DFCBB8 /* CryptoApp.swift */; };
+		98F63B942919732D00DFCBB8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98F63B932919732D00DFCBB8 /* ContentView.swift */; };
+		98F63B962919732F00DFCBB8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 98F63B952919732F00DFCBB8 /* Assets.xcassets */; };
+		98F63B992919732F00DFCBB8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 98F63B982919732F00DFCBB8 /* Preview Assets.xcassets */; };
+		98F63BA32919733000DFCBB8 /* CryptoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98F63BA22919733000DFCBB8 /* CryptoTests.swift */; };
+		98F63BAD2919733000DFCBB8 /* CryptoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98F63BAC2919733000DFCBB8 /* CryptoUITests.swift */; };
+		98F63BAF2919733000DFCBB8 /* CryptoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98F63BAE2919733000DFCBB8 /* CryptoUITestsLaunchTests.swift */; };
+		98F63BC72919C98C00DFCBB8 /* Coins.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98F63BC62919C98C00DFCBB8 /* Coins.swift */; };
+		98F63BC9291A895800DFCBB8 /* DetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98F63BC8291A895800DFCBB8 /* DetailsView.swift */; };
+		98F63BCE291B181600DFCBB8 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98F63BCD291B181600DFCBB8 /* SettingView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		98F63B9F2919733000DFCBB8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 98F63B862919732D00DFCBB8 /* Project object */;
