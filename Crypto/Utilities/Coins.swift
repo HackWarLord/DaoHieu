@@ -21,4 +21,4 @@ let coinsList = [
     Coin(imageName: "AltCoin", name: "Litecoin", cost: "100$"),
     Coin(imageName: "Ether", name: "Ethereum", cost: "100$"),
     Coin(imageName: "Bitcoin", name: "Bitcoin", cost: "100$"),
-    Coi
+    Coin(imageName: "AltCoin"
