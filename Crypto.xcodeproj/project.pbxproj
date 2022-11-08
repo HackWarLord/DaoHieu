@@ -75,3 +75,26 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		98F63B852919732D00DFCBB8 = {
+			isa = PBXGroup;
+			children = (
+				98F63B902919732D00DFCBB8 /* Crypto */,
+				98F63BA12919733000DFCBB8 /* CryptoTests */,
+				98F63BAB2919733000DFCBB8 /* CryptoUITests */,
+				98F63B8F2919732D00DFCBB8 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		98F63B8F2919732D00DFCBB8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				98F63B8E2919732D00DFCBB8 /* Crypto.app */,
+				98F63B9E2919733000DFCBB8 /* CryptoTests.xctest */,
+				98F63BA82919733000DFCBB8 /* CryptoUITests.xctest */,
+			);
+			name = Products;
