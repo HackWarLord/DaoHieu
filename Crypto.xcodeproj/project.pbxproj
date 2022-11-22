@@ -98,3 +98,30 @@
 				98F63BA82919733000DFCBB8 /* CryptoUITests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		98F63B902919732D00DFCBB8 /* Crypto */ = {
+			isa = PBXGroup;
+			children = (
+				98F63BCA291A8AF900DFCBB8 /* Utilities */,
+				98F63BBB29198FBB00DFCBB8 /* App */,
+				98F63BBC29198FE900DFCBB8 /* Flows */,
+				98F63BC32919923300DFCBB8 /* Resources */,
+				98F63B972919732F00DFCBB8 /* Preview Content */,
+			);
+			path = Crypto;
+			sourceTree = "<group>";
+		};
+		98F63B972919732F00DFCBB8 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				98F63B982919732F00DFCBB8 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		98F63BA12919733000DFCBB8 /* CryptoTests */ = {
+			isa = PBXGroup;
+			children = (
+				98F63BA22919733000DFCBB8 /* CryptoTests.swift */,
+			);
