@@ -155,3 +155,15 @@
 			sourceTree = "<group>";
 		};
 		98F63BBD2919904500DFCBB8 /* Coordinator */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Coordinator;
+			sourceTree = "<group>";
+		};
+		98F63BBE2919905100DFCBB8 /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				98F63BBF2919906A00DFCBB8 /* Home */,
+				98F63BC0291990B200DFCBB8 /* Main */,
+				98F63BC12919917000DFCBB8 /* Details */,
