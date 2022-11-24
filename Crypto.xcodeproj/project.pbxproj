@@ -125,3 +125,16 @@
 			children = (
 				98F63BA22919733000DFCBB8 /* CryptoTests.swift */,
 			);
+			path = CryptoTests;
+			sourceTree = "<group>";
+		};
+		98F63BAB2919733000DFCBB8 /* CryptoUITests */ = {
+			isa = PBXGroup;
+			children = (
+				98F63BAC2919733000DFCBB8 /* CryptoUITests.swift */,
+				98F63BAE2919733000DFCBB8 /* CryptoUITestsLaunchTests.swift */,
+			);
+			path = CryptoUITests;
+			sourceTree = "<group>";
+		};
+		98F63BBB29198FBB00DFCBB8 /* App */ = {
