@@ -220,3 +220,25 @@
 			path = Utilities;
 			sourceTree = "<group>";
 		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		98F63B8D2919732D00DFCBB8 /* Crypto */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 98F63BB22919733000DFCBB8 /* Build configuration list for PBXNativeTarget "Crypto" */;
+			buildPhases = (
+				98F63B8A2919732D00DFCBB8 /* Sources */,
+				98F63B8B2919732D00DFCBB8 /* Frameworks */,
+				98F63B8C2919732D00DFCBB8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Crypto;
+			productName = Crypto;
+			productReference = 98F63B8E2919732D00DFCBB8 /* Crypto.app */;
+			productType = "com.apple.product-type.application";
+		};
+		98F63B9D2919733000DFCBB8 /* CryptoTests */ = {
+			isa = PBXNativeTarget;
