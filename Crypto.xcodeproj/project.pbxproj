@@ -202,3 +202,21 @@
 				98F63BCD291B181600DFCBB8 /* SettingView.swift */,
 			);
 			path = Settings;
+			sourceTree = "<group>";
+		};
+		98F63BC32919923300DFCBB8 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				98F63B952919732F00DFCBB8 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		98F63BCA291A8AF900DFCBB8 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				98F63BC62919C98C00DFCBB8 /* Coins.swift */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
