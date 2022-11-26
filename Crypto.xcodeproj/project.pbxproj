@@ -310,3 +310,18 @@
 			mainGroup = 98F63B852919732D00DFCBB8;
 			productRefGroup = 98F63B8F2919732D00DFCBB8 /* Products */;
 			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				98F63B8D2919732D00DFCBB8 /* Crypto */,
+				98F63B9D2919733000DFCBB8 /* CryptoTests */,
+				98F63BA72919733000DFCBB8 /* CryptoUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		98F63B8C2919732D00DFCBB8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				98F63B992919732F00DFCBB8 /* Preview Assets.xcassets in Resources */,
