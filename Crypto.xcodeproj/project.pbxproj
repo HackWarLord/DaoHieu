@@ -251,3 +251,21 @@
 			buildRules = (
 			);
 			dependencies = (
+				98F63BA02919733000DFCBB8 /* PBXTargetDependency */,
+			);
+			name = CryptoTests;
+			productName = CryptoTests;
+			productReference = 98F63B9E2919733000DFCBB8 /* CryptoTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		98F63BA72919733000DFCBB8 /* CryptoUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 98F63BB82919733000DFCBB8 /* Build configuration list for PBXNativeTarget "CryptoUITests" */;
+			buildPhases = (
+				98F63BA42919733000DFCBB8 /* Sources */,
+				98F63BA52919733000DFCBB8 /* Frameworks */,
+				98F63BA62919733000DFCBB8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
