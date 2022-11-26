@@ -186,3 +186,19 @@
 				9891F1B8291C562100443CE5 /* MainView.swift */,
 			);
 			path = Main;
+			sourceTree = "<group>";
+		};
+		98F63BC12919917000DFCBB8 /* Details */ = {
+			isa = PBXGroup;
+			children = (
+				98F63BC8291A895800DFCBB8 /* DetailsView.swift */,
+			);
+			path = Details;
+			sourceTree = "<group>";
+		};
+		98F63BC22919918300DFCBB8 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				98F63BCD291B181600DFCBB8 /* SettingView.swift */,
+			);
+			path = Settings;
