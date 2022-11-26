@@ -292,3 +292,21 @@
 					98F63B9D2919733000DFCBB8 = {
 						CreatedOnToolsVersion = 14.0.1;
 						TestTargetID = 98F63B8D2919732D00DFCBB8;
+					};
+					98F63BA72919733000DFCBB8 = {
+						CreatedOnToolsVersion = 14.0.1;
+						TestTargetID = 98F63B8D2919732D00DFCBB8;
+					};
+				};
+			};
+			buildConfigurationList = 98F63B892919732D00DFCBB8 /* Build configuration list for PBXProject "Crypto" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 98F63B852919732D00DFCBB8;
+			productRefGroup = 98F63B8F2919732D00DFCBB8 /* Products */;
+			projectDirPath = "";
