@@ -167,3 +167,22 @@
 				98F63BBF2919906A00DFCBB8 /* Home */,
 				98F63BC0291990B200DFCBB8 /* Main */,
 				98F63BC12919917000DFCBB8 /* Details */,
+				98F63BC22919918300DFCBB8 /* Settings */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		98F63BBF2919906A00DFCBB8 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				98F63B932919732D00DFCBB8 /* ContentView.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		98F63BC0291990B200DFCBB8 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				9891F1B8291C562100443CE5 /* MainView.swift */,
+			);
+			path = Main;
