@@ -242,3 +242,12 @@
 		};
 		98F63B9D2919733000DFCBB8 /* CryptoTests */ = {
 			isa = PBXNativeTarget;
+			buildConfigurationList = 98F63BB52919733000DFCBB8 /* Build configuration list for PBXNativeTarget "CryptoTests" */;
+			buildPhases = (
+				98F63B9A2919733000DFCBB8 /* Sources */,
+				98F63B9B2919733000DFCBB8 /* Frameworks */,
+				98F63B9C2919733000DFCBB8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
