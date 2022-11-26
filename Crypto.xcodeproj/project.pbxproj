@@ -269,3 +269,26 @@
 			buildRules = (
 			);
 			dependencies = (
+				98F63BAA2919733000DFCBB8 /* PBXTargetDependency */,
+			);
+			name = CryptoUITests;
+			productName = CryptoUITests;
+			productReference = 98F63BA82919733000DFCBB8 /* CryptoUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		98F63B862919732D00DFCBB8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1400;
+				LastUpgradeCheck = 1400;
+				TargetAttributes = {
+					98F63B8D2919732D00DFCBB8 = {
+						CreatedOnToolsVersion = 14.0.1;
+					};
+					98F63B9D2919733000DFCBB8 = {
+						CreatedOnToolsVersion = 14.0.1;
+						TestTargetID = 98F63B8D2919732D00DFCBB8;
