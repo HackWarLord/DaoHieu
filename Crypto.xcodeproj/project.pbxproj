@@ -325,3 +325,29 @@
 			buildActionMask = 2147483647;
 			files = (
 				98F63B992919732F00DFCBB8 /* Preview Assets.xcassets in Resources */,
+				98F63B962919732F00DFCBB8 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		98F63B9C2919733000DFCBB8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		98F63BA62919733000DFCBB8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		98F63B8A2919732D00DFCBB8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				98F63B942919732D00DFCBB8 /* ContentView.swift in Sources */,
