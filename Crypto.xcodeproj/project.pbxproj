@@ -351,3 +351,29 @@
 			buildActionMask = 2147483647;
 			files = (
 				98F63B942919732D00DFCBB8 /* ContentView.swift in Sources */,
+				98F63BC9291A895800DFCBB8 /* DetailsView.swift in Sources */,
+				98F63BCE291B181600DFCBB8 /* SettingView.swift in Sources */,
+				9891F1B9291C562100443CE5 /* MainView.swift in Sources */,
+				98F63BC72919C98C00DFCBB8 /* Coins.swift in Sources */,
+				98F63B922919732D00DFCBB8 /* CryptoApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		98F63B9A2919733000DFCBB8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				98F63BA32919733000DFCBB8 /* CryptoTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		98F63BA42919733000DFCBB8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				98F63BAD2919733000DFCBB8 /* CryptoUITests.swift in Sources */,
+				98F63BAF2919733000DFCBB8 /* CryptoUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
