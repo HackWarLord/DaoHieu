@@ -377,3 +377,30 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		98F63BA02919733000DFCBB8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 98F63B8D2919732D00DFCBB8 /* Crypto */;
+			targetProxy = 98F63B9F2919733000DFCBB8 /* PBXContainerItemProxy */;
+		};
+		98F63BAA2919733000DFCBB8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 98F63B8D2919732D00DFCBB8 /* Crypto */;
+			targetProxy = 98F63BA92919733000DFCBB8 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		98F63BB02919733000DFCBB8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
