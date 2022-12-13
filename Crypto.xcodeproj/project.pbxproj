@@ -657,3 +657,19 @@
 		};
 		98F63BB52919733000DFCBB8 /* Build configuration list for PBXNativeTarget "CryptoTests" */ = {
 			isa = XCConfigurationList;
+			buildConfigurations = (
+				98F63BB62919733000DFCBB8 /* Debug */,
+				98F63BB72919733000DFCBB8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		98F63BB82919733000DFCBB8 /* Build configuration list for PBXNativeTarget "CryptoUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				98F63BB92919733000DFCBB8 /* Debug */,
+				98F63BBA2919733000DFCBB8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
