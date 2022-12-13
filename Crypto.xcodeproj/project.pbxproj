@@ -635,3 +635,25 @@
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		98F63B892919732D00DFCBB8 /* Build configuration list for PBXProject "Crypto" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				98F63BB02919733000DFCBB8 /* Debug */,
+				98F63BB12919733000DFCBB8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		98F63BB22919733000DFCBB8 /* Build configuration list for PBXNativeTarget "Crypto" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				98F63BB32919733000DFCBB8 /* Debug */,
+				98F63BB42919733000DFCBB8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		98F63BB52919733000DFCBB8 /* Build configuration list for PBXNativeTarget "CryptoTests" */ = {
+			isa = XCConfigurationList;
