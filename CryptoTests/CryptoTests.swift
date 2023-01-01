@@ -6,4 +6,6 @@
 //
 
 import XCTest
-@testable import Crypt
+@testable import Crypto
+
+final class CryptoTests: X
