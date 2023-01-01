@@ -6,4 +6,4 @@
 //
 
 import XCTest
-@test
+@testable import Crypt
