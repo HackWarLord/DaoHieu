@@ -11,4 +11,4 @@ import XCTest
 final class CryptoTests: XCTestCase {
 
     override func setUpWithError() throws {
-        // Put setup code here. This method is called before the invocation of eac
+        // Put setup code here. This method is called before the invocation of each test method in the clas
