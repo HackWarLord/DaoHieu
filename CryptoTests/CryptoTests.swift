@@ -19,4 +19,5 @@ final class CryptoTests: XCTestCase {
     }
 
     func testExample() throws {
-        // This is an example of a functi
+        // This is an example of a functional test case.
+     
