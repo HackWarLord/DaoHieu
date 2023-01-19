@@ -19,4 +19,4 @@ final class CryptoTests: XCTestCase {
     }
 
     func testExample() throws {
-        // This is an exa
+        // This is an example of a functi
