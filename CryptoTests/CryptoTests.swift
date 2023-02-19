@@ -27,4 +27,4 @@ final class CryptoTests: XCTestCase {
     }
 
     func testPerformanceExample() throws {
-        // This is a
+        // This is an example of a performan
